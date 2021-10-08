@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "330335315164",
+    "firebase_url": "https://hungry-game-1-default-rtdb.firebaseio.com",
+    "project_id": "hungry-game-1",
+    "storage_bucket": "hungry-game-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330335315164:android:543f655aa349b316830019",
+        "android_client_info": {
+          "package_name": "com.moh3enit.myhungrygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330335315164-9gi2fa3vktr526csldp294rves8goc6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moh3enit.myhungrygame",
+            "certificate_hash": "c723da87608db1e31fd625c1c407ec5cd70988ce"
+          }
+        },
+        {
+          "client_id": "330335315164-5pq2i69kqfg4g3moetpkerk9o8s6j24q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzezYsTNOdVCxKuhXJ-XwIy3lAWKQi-gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330335315164-5pq2i69kqfg4g3moetpkerk9o8s6j24q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330335315164-3m0bob5elsp1kr04j8buop9ojtlujufq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.restaurant.challenge.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330335315164:android:f2de32ffd455968c830019",
+        "android_client_info": {
+          "package_name": "com.restaurant.challenge.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330335315164-eiqk0eanh7e78440folh9ko4n0j3qem9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.restaurant.challenge.app",
+            "certificate_hash": "c723da87608db1e31fd625c1c407ec5cd70988ce"
+          }
+        },
+        {
+          "client_id": "330335315164-5pq2i69kqfg4g3moetpkerk9o8s6j24q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzezYsTNOdVCxKuhXJ-XwIy3lAWKQi-gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330335315164-5pq2i69kqfg4g3moetpkerk9o8s6j24q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330335315164-3m0bob5elsp1kr04j8buop9ojtlujufq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.restaurant.challenge.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
